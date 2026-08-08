@@ -1,4 +1,4 @@
-![Header](assets\github-header-banner.png)
+![Header](assets/github-header-banner.png)
 
 ## Project Description
 This project is a website where it contains all the details for our Cafe, "Cozy Cup"
